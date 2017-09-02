@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheetExample</string>
+    <string name="bottom_sheet_peek">Peek</string>
+    <string name="bottom_sheet_content">Content</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1BBB9C</color>
+    <color name="colorPrimaryDark">#169E85</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bottom_sheet_peek">#9A56B6</color>
+    <color name="bottom_sheet_content">#C0C0C0</color>
+</resources>
